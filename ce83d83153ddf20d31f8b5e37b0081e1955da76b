@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8e5fffb3_cd613de6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 31578
+      },
+      "writtenOn": "2023-06-14T06:16:32Z",
+      "side": 1,
+      "message": "https://github.com/hellobbn/proprietary_vendor_sony_pdx215",
+      "revId": "ce83d83153ddf20d31f8b5e37b0081e1955da76b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
