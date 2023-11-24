@@ -16,6 +16,23 @@
       "message": "Why don\u0027t you merge this in lineage-20 before diverging?",
       "revId": "7a7a9a3555f55e3c84bef426fbaf55fada31ae49",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0c2c1006_0cd52d09",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14962
+      },
+      "writtenOn": "2023-11-24T22:09:52Z",
+      "side": 1,
+      "message": "should be ok",
+      "revId": "7a7a9a3555f55e3c84bef426fbaf55fada31ae49",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
