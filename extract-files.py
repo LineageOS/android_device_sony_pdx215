@@ -24,7 +24,6 @@ module = ExtractUtilsModule(
     'pdx215',
     'sony',
     namespace_imports=namespace_imports,
-    check_elf=True,
 )
 
 if __name__ == '__main__':
